@@ -1,4 +1,4 @@
-# Encryption-and-authentication-of-database-using-becrypt
+# Encryption-and-authentication-of-database-using-bcrypt
 
 Clone the files
 
